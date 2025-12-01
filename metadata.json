@@ -1,0 +1,5 @@
+{
+  "name": "数字心流",
+  "description": "A rapid-fire arithmetic sorting game where players swipe cards based on correctness. Features AI-generated questions and a dynamic focus-based progress bar.",
+  "requestFramePermissions": []
+}
